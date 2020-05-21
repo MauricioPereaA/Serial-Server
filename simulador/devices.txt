@@ -1,0 +1,46 @@
+{
+    "device": [
+        {
+            "id": "1",
+            "name": "7055",
+            "input_state": "1",
+            "output_state": "52480"
+        },
+        {
+            "id": "2",
+            "name": "7055",
+            "input_state": "2",
+            "output_state": "0"
+        },
+        {
+            "id": "3",
+            "name": "7055",
+            "input_state": "4",
+            "output_state": "44032"
+        },
+  	{
+            "id": "4",
+            "name": "7055",
+            "input_state": "8",
+            "output_state": "44032"
+        },
+  	{
+            "id": "5",
+            "name": "7055",
+            "input_state": "16",
+            "output_state": "44032"
+        },
+  	{
+            "id": "6",
+            "name": "7055",
+            "input_state": "32",
+            "output_state": "44032"
+        },
+  	{
+            "id": "7",
+            "name": "7055",
+            "input_state": "64",
+            "output_state": "44032"
+        }
+    ]
+}
